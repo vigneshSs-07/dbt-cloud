@@ -1,6 +1,9 @@
 # dbt-cloud
 This Repo deals with in and out of dbt-cloud details.
 
+### What is analytics engineering?
+https://www.getdbt.com/what-is-analytics-engineering
+
 ### Quickstart for dbt Cloud and BigQuery
 https://docs.getdbt.com/guides/bigquery?step=1
 
